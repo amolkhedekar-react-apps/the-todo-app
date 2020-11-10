@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/the-todo-app/static/css/main.0cb334fe.chunk.css",
-    "main.js": "/the-todo-app/static/js/main.77a23a31.chunk.js",
-    "main.js.map": "/the-todo-app/static/js/main.77a23a31.chunk.js.map",
-    "runtime-main.js": "/the-todo-app/static/js/runtime-main.3df70199.js",
-    "runtime-main.js.map": "/the-todo-app/static/js/runtime-main.3df70199.js.map",
-    "static/js/2.24c2eb95.chunk.js": "/the-todo-app/static/js/2.24c2eb95.chunk.js",
-    "static/js/2.24c2eb95.chunk.js.map": "/the-todo-app/static/js/2.24c2eb95.chunk.js.map",
+    "main.js": "/the-todo-app/static/js/main.79d74017.chunk.js",
+    "main.js.map": "/the-todo-app/static/js/main.79d74017.chunk.js.map",
+    "runtime-main.js": "/the-todo-app/static/js/runtime-main.2c0df9e3.js",
+    "runtime-main.js.map": "/the-todo-app/static/js/runtime-main.2c0df9e3.js.map",
+    "static/js/2.570b61f8.chunk.js": "/the-todo-app/static/js/2.570b61f8.chunk.js",
+    "static/js/2.570b61f8.chunk.js.map": "/the-todo-app/static/js/2.570b61f8.chunk.js.map",
     "index.html": "/the-todo-app/index.html",
-    "precache-manifest.9534dc44aec63117c9bd77d346858242.js": "/the-todo-app/precache-manifest.9534dc44aec63117c9bd77d346858242.js",
+    "precache-manifest.b9db485264bf014888e952c94af2118a.js": "/the-todo-app/precache-manifest.b9db485264bf014888e952c94af2118a.js",
     "service-worker.js": "/the-todo-app/service-worker.js",
     "static/css/main.0cb334fe.chunk.css.map": "/the-todo-app/static/css/main.0cb334fe.chunk.css.map",
-    "static/js/2.24c2eb95.chunk.js.LICENSE.txt": "/the-todo-app/static/js/2.24c2eb95.chunk.js.LICENSE.txt"
+    "static/js/2.570b61f8.chunk.js.LICENSE.txt": "/the-todo-app/static/js/2.570b61f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3df70199.js",
-    "static/js/2.24c2eb95.chunk.js",
+    "static/js/runtime-main.2c0df9e3.js",
+    "static/js/2.570b61f8.chunk.js",
     "static/css/main.0cb334fe.chunk.css",
-    "static/js/main.77a23a31.chunk.js"
+    "static/js/main.79d74017.chunk.js"
   ]
 }
