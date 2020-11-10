@@ -1,0 +1,102 @@
+.task {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  background: aliceblue;
+  color: black;
+  font-size: 1.3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8px;
+}
+.task:hover {
+  color: blue;
+  background: #fcf3cf;
+}
+.task__createdAt {
+  font-size: 0.7rem;
+  max-width: 40px;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border-radius: 8px;
+  background: #ebedef;
+}
+.task li {
+  flex: 1;
+  padding: 0.5rem;
+  max-width: 450px;
+  word-wrap: break-word;
+}
+.fa {
+  font-size: 1.3rem;
+  margin: 0.3rem;
+}
+.btn--complete {
+  padding: 5px;
+  background-color: transparent;
+  color: green;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.btn--complete:hover {
+  background-color: #d8e7af;
+  border-radius: 8px;
+}
+.btn--edit {
+  padding: 5px;
+  background-color: transparent;
+  color: #3498db;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.btn--edit:hover {
+  background-color: #d6eaf8;
+  border-radius: 8px;
+}
+.btn--delete {
+  padding: 5px;
+  background-color: transparent;
+  color: orangered;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.btn--delete:hover {
+  background-color: #f2d7d5;
+  border-radius: 8px;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+.fixed {
+  position: fixed;
+}
+
+@media screen and (max-width: 640px) {
+  .task {
+    margin: 0.5rem;
+    padding: 0.2rem;
+    background: aliceblue;
+    color: black;
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+  }
+  .task li {
+    max-width: 50vw;
+    word-wrap: break-word;
+  }
+  .fa {
+    font-size: 1.3rem;
+    margin: 0.1rem;
+  }
+}
